@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0542/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵天火羅九曜
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1311.xml
+    old_id: T21n1311
+hash: sha256:3130b5dbc68a9b0183e274cab3bfd9e762695296ef8f2bd4efb078ea7084aae9
